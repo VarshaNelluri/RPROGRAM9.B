@@ -1,4 +1,4 @@
-# RPROGRAM9.B
+# RPROGRAM7.B
 #Poisson fit and goodness of fit
 x<-c(0,1,2,3,4)
 f<-c(211,90,19,5,0)
