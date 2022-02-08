@@ -23,6 +23,16 @@ result<-chisq.test(f,p=pr,rescale.p=TRUE)
 print(result)
 tablevalue<-qchisq(.95, df=s)
 print(tablevalue)
+
+
+
+
+
+
+
+
+
+
 OUTPUT:
  #Poisson fit and goodness of fit
 > x<-c(0,1,2,3,4)
